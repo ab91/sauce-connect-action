@@ -1,6 +1,6 @@
 name: "PR Checks"
 on: push
-  workflow-dispatch:
+  workflow_dispatch:
 
 jobs:
     test:
