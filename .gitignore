@@ -5,3 +5,5 @@ __tests__/runner/*
 lib/**/*
 .nyc_output
 coverage
+
+*.sw[a-z]
